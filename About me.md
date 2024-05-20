@@ -4,8 +4,8 @@
 <ul>
 <li> 💼 Passionate about programming and business.<br></li>
 <li> 🌱 Currently mastering CSS and JavaScript, with plans to delve into GDScript and Python soon.</li>
-<li>- 💻 Seeking collaborations on web development and game projects (if you want to colaborate with me, contact me).</li> 
-<li>- 😄 Pronouns: He/Him</li>
+<li> 💻 Seeking collaborations on web development and game projects (if you want to colaborate with me, contact me).</li> 
+<li> 😄 Pronouns: He/Him</li>
 </ul>
 </div>
 <div>
